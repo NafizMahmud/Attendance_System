@@ -1,0 +1,25 @@
+StudentID  1304001
+	{Al Noman, Regular, 1304 } 
+
+StudentID  1304002
+	
+	{Ahemd Sakib, Regular, 1304 }
+
+StudentID  1304003
+	
+	{ Hridoy Khan, Regular, 1304 }
+
+StudentID  1304072
+	
+	{Nafiz Mahmud, Regular, 1304 }
+
+StudentID  1304098
+	
+	{Nasim Ahmed, Regular, 1304 }
+	
+StudentID  1204078
+	{ Jalil Haque, Irregular, 1204 }
+
+	
+
+	

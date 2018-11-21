@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attendance</string>
+    <string name="action_settings">Settings</string>
+    <string name="Developer">Developed By Nafiz (Androxyde)</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_coursectivity">Coursectivity</string>
+    <string name="title_activity_course__overview">Course_Overview</string>
+    <string name="title_activity_addcourse">AddcourseActivity</string>
+    <string name="title_activity_databasehelper">DatabasehelperActivity</string>
+    <string name="title_activity_attendance_sheet">AttendanceSheetActivity</string>
+    <string name="title_activity_add_date">AddDateActivity</string>
+
+</resources>

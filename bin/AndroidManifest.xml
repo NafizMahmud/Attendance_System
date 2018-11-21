@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.attendance"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:allowTaskReparenting="true"
+        android:enabled="false"
+        android:hasCode="false"
+        android:icon="@drawable/backgroundtwo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.attendance.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.attendance.LogActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.SignupActivity"
+            android:label="@string/title_activity_signup"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Coursectivity"
+            android:label="@string/title_activity_coursectivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.Course_Overview"
+            android:label="@string/title_activity_course__overview"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AddcourseActivity"
+            android:label="@string/title_activity_addcourse" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.DatabasehelperActivity"
+            android:label="@string/title_activity_databasehelper" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AttendanceSheetActivity"
+            android:label="@string/title_activity_attendance_sheet" >
+        </activity>
+        <activity
+            android:name="com.example.attendance.AddDateActivity"
+            android:label="@string/title_activity_add_date" >
+        </activity>
+    </application>
+
+</manifest>
